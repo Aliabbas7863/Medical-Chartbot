@@ -93,6 +93,22 @@ Try questions that are likely covered in the PDF:
 - What causes fever?
 - How is a disease diagnosed?
 
+
+## Screenshot
+<img width="624" height="466" alt="charbot" src="https://github.com/user-attachments/assets/539fb4fd-c672-46e2-a6b4-c5c21118c7a3" />
+<img width="624" height="424" alt="charbot 1" src="https://github.com/user-attachments/assets/34b1ea79-7530-4f47-aad2-f8a8a5d88edd" />
+<img width="624" height="284" alt="chatbot 3" src="https://github.com/user-attachments/assets/0b63c1a1-e508-46e7-9d2e-f1dea084491e" />
+
+
+
+
+
+
+
+
+
+
+
 ## Notes
 
 - The app is only as good as the text in the PDF.
